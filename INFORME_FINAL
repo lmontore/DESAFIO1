@@ -1,1 +1,12 @@
+Representacion de los posibles codigos
+H : 000
+J : 001
+K : 010
+* : 011
+L : 100
+M : 101
+N : 101
+# : 111
+
+Estos seran los valores que seran tomados a nibel de memoria para representacion interna
 
